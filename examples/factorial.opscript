@@ -9,7 +9,7 @@ forloop:
         duplicate
         swap 1 3
 
-        # Do the multiplication of fib
+        # Do the multiplication of factorial
         *
         swap 0 2
 
